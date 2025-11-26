@@ -45,10 +45,10 @@
   <a href="https://github.com/LichtBlade" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" height="25"/>
   </a>
-  <a href="https://www.linkedin.com/in/ritch-marc-bustillo" target="_blank">
+  <a href="https://www.linkedin.com/in/ritch-marc-bustillo-842a16273" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
-  <a href="https://www.facebook.com/ritchmarc.bustillo" target="_blank">
+  <a href="https://www.facebook.com/ricthmarc" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25"/>
   </a>
   <a href="https://www.instagram.com/iamlichtblade" target="_blank">
