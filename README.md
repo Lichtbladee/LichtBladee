@@ -1,7 +1,7 @@
 <h3 align="left">Hey there 👋, I'm Licht</h3>
 
 <p align="left">
-  <em>Full Stack & Mobile Developer • Backend Engineer • Product Builder • Founder of VenGuild</em>
+  <em>Full Stack & Mobile Developer • Backend Engineer • Product Builder • Founder of Venguild</em>
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 <h4 align="left">Featured Projects:</h4>
 <ul>
-  <li>🛡️ <b>VenGuild</b> — Professional networking + gamified ecosystem with cross-platform support.</li>
+  <li>🛡️ <b>Venguild</b> — Professional networking + gamified ecosystem with cross-platform support.</li>
   <li>📱 <b>WayFinder Smart Walking Stick</b> — Capstone project w/ AI, sensors, pathfinding & mobile integration & web integration.</li>
   <li>🔥 <b>FlameGuard</b> — IoT fire-alert system with real-time notifications.</li>
   <li>🛒 <b>UPang Eats</b> — University-based food ordering system with integrated crypto wallet support.</li>
