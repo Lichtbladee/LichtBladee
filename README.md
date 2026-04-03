@@ -10,7 +10,7 @@
 
 - 🚀 Full-stack & mobile developer building **scalable apps** for Web, Android, and iOS.  
 - 🛠️ Strong focus on **backend engineering** — Node.js, Express, MongoDB, REST APIs, authentication, and cloud services.  
-- ☁️ Proficient in **AWS Full-Stack** infrastructure, leveraging **EC2, S3, and AWS Organizations/Sandboxes** to build secure, scalable, and isolated environments.
+- ☁️ Proficient in **AWS Full-Stack** infrastructure, AWS Organizations/Sandboxes** to build secure, scalable, and isolated environments.
 - 💼 Founder & Lead Developer of **VenGuild**, a professional networking + gamified card ecosystem.  
 - 📊 Experienced in **task management and agile workflow using JIRA**.  
 - 🧠 Skilled in system design, clean architecture, and building structured features with logs, auditing, and secure APIs.  
