@@ -20,7 +20,7 @@
 
 <h4 align="left">Languages and Tools:</h4>
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,js,html,css,python,mongodb,mysql,postgres,firebase,aws,git,github,postman,vscode,androidstudio,jira)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,js,html,css,python,mongodb,mysql,postgres,firebase,aws,git,github,postman,vscode,androidstudio) <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="20"/>
 
 ---
 
