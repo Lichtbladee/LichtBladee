@@ -12,7 +12,7 @@
 - 🛠️ Strong focus on **backend engineering** — Node.js, Express, MongoDB, REST APIs, authentication, and cloud services.  
 - ☁️ Proficient in **AWS Full-Stack** infrastructure, AWS Organizations/Sandboxes** to build secure, scalable, and isolated environments.
 - 💼 Founder & Lead Developer of **VenGuild**, a professional networking + gamified card ecosystem.  
-- 📊 Experienced in **task management and agile workflow using JIRA**.  
+- 📊 Experienced in **task management and agile workflow using JIRA** <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="20"/>.  
 - 🧠 Skilled in system design, clean architecture, and building structured features with logs, auditing, and secure APIs.  
 - 💡 Passionate about building real-world solutions through **product thinking** and strong engineering.  
 
@@ -32,7 +32,6 @@
   <li>🛒 <b>UPang Eats</b> — University-based food ordering system with integrated crypto wallet support.</li>
   <li>🎒 <b>Registrar Appointment System</b> — Appointment scheduler with secure QR verification.</li>
   <li>🌴 <b>GetTravel Pangasinan</b> — Local travel discovery platform for finding the best beaches, restaurants, hotels, and attractions exclusively in Pangasinan, Philippines.</li>
-
 </ul>
 
 *(More innovations coming soon — building fast, learning faster.)*
